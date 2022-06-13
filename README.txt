@@ -1,5 +1,5 @@
 # tmdb
-TMDB data analysis (ANJI GAREVIDI)
+TMDB data analysis (OMM NAMASIVAYA)
 
 # DataSet used: TMDB movie data (https://www.google.com/url?q=https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv&sa=D&ust=1535239413276000)
 
